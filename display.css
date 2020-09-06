@@ -1,5 +1,14 @@
-body{background-color: chocolate;}
-div{position : fixed ; left:52%}
-ul li {display:inline; padding-left:1em;}
+body{background-color:#E4C268;}
+div{position : fixed ; left:22%}
+ul li {display:inline; padding-left:5em;}
 
-#bur{width:20%; height:20%;}
+#bur{width:40%; position:absolute; left: 120%; top: -2%;}
+
+.skill li {display:block;}
+
+.courses{background-color: #0D4558; width: 50%; height:50%; border-radius: 5%; left:30%;}
+
+.courses a {
+    text-decoration: none;
+}
+.active{border-bottom-style:solid; border-bottom-width:solid; border-bottom-color: black; text-decoration: none;}
