@@ -12,3 +12,7 @@ Please refer to your lab instructions for definitive directions. In general, clo
 
 ## personalize the file
 Burtina Graham 
+
+##
+link to published website is below 
+https://burtina.github.io/lab-1/
